@@ -41,7 +41,7 @@ You can find pre-implemented schedulers (Keras naming convention for learning ra
 
 
 step decy 
-![step_decay](https://user-images.githubusercontent.com/94951202/161907657-ae5acd7f-353d-4e26-b72b-3c481f424277.png)
+![step_decay](https://user-images.githubusercontent.com/94951202/161909581-91c3856d-f333-45a3-b590-70aac687ada7.png)
 
 exponential_decay
-![exponential_decay](https://user-images.githubusercontent.com/94951202/161907661-e017d73b-f23c-4be6-896e-f4167ed56f1a.png)
+![exponential_decay](https://user-images.githubusercontent.com/94951202/161909598-166cf12d-a7f7-45c3-8d01-ef60f3b959e3.png)
