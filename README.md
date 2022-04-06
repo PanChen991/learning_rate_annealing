@@ -38,3 +38,10 @@ You can run `python training.py` to see the effect of different annealing strate
 
 You can find pre-implemented schedulers (Keras naming convention for learning rate annealing strategies) 
 [here](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/schedules).
+
+
+step decy 
+![step_decay](https://user-images.githubusercontent.com/94951202/161907657-ae5acd7f-353d-4e26-b72b-3c481f424277.png)
+
+exponential_decay
+![exponential_decay](https://user-images.githubusercontent.com/94951202/161907661-e017d73b-f23c-4be6-896e-f4167ed56f1a.png)
